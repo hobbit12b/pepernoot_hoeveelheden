@@ -12,7 +12,7 @@ Het tandwiel opent de leerkrachtinstellingen. Kies een level en een kijktijd (1,
 4. Tot en met 6: grootste groep in dobbelsteenpatroon, tweede groep doortellen.
 5. Tot en met 6: twee vrij geplaatste groepjes.
 6. Tot en met 10: eerste groep in dobbelsteenpatroon, tweede groep doortellen.
-7. Tot en met 10: compacte groepjes, bijvoorbeeld 3 + 3, 4 + 4 en 5 + 5; geen lange rijen.
+7. Tot en met 10: twee onregelmatige groepjes zonder dobbelsteenstructuur of lange rijen. Bij één pepernoot is er één groepje.
 
 Bij één pepernoot is er één groepje. Alle hoeveelheden komen in wisselende volgorde voorbij.
 
@@ -21,4 +21,5 @@ Bij één pepernoot is er één groepje. Alle hoeveelheden komen in wisselende v
 De realistische pepernoot, het rustige speelkleed en de vilten bedieningssymbolen zijn rasterafbeeldingen gemaakt met image generator. Geen SVG-afbeeldingen, geluid of bewegende decoraties. Alle afbeeldingen staan lokaal in de repository; het spel gebruikt geen externe bibliotheken of tracking.
 
 De dobbelsteengroepen blijven vierkant op verschillende schermformaten. De horizontale afstand tussen de dobbelsteenposities is 28% kleiner dan in de eerste versie; de verticale afstand 22% kleiner.
+
 
